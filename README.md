@@ -1,8 +1,8 @@
 # react-billboard.js
 
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react-billboard.js)
-[![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/react-billboard.js)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://www.npmjs.com/package/react-billboard.js)
+[![npm](https://img.shields.io/npm/v/react-billboard.js.svg)](https://www.npmjs.com/package/react-billboard.js)
+[![npm](https://img.shields.io/npm/dt/react-billboard.js.svg)](https://www.npmjs.com/package/react-billboard.js)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/my8bit/react-billboard.js/master/LICENSE)
 
 ## This is a fork of [react-c3js](https://github.com/bcbcarl/react-c3js) adopted for [billboard.js](https://naver.github.io/billboard.js/)
 
