@@ -4,6 +4,14 @@
 [![npm](https://img.shields.io/npm/dt/react-billboard.js.svg)](https://www.npmjs.com/package/react-billboard.js)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/my8bit/react-billboard.js/master/LICENSE)
 
+[![bitHound Overall Score](https://www.bithound.io/github/my8bit/react-billboard.js/badges/score.svg)](https://www.bithound.io/github/my8bit/react-billboard.js)
+[![bitHound Dependencies](https://www.bithound.io/github/my8bit/react-billboard.js/badges/dependencies.svg)](https://www.bithound.io/github/my8bit/react-billboard.js/master/dependencies/npm)
+[![bitHound Dev Dependencies](https://www.bithound.io/github/my8bit/react-billboard.js/badges/devDependencies.svg)](https://www.bithound.io/github/my8bit/react-billboard.js/master/dependencies/npm)
+[![bitHound Code](https://www.bithound.io/github/my8bit/react-billboard.js/badges/code.svg)](https://www.bithound.io/github/my8bit/react-billboard.js)
+
+[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+[![Issue Count](https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+
 ## This is a fork of [react-c3js](https://github.com/bcbcarl/react-c3js) adopted for [billboard.js](https://naver.github.io/billboard.js/)
 
 React component for [billboard.js](https://naver.github.io/billboard.js/)
