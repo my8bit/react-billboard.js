@@ -1,3 +1,10 @@
-JavaScript: true
+engines:
+  eslint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - javascript:
 exclude_paths:
-- "docs/"
+- docs/**/*
