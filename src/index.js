@@ -39,7 +39,7 @@ class BillboardChart extends React.Component {
       gauge: PropTypes.object,
       className: PropTypes.string,
       style: PropTypes.object,
-      unloadBeforeLoad: PropTypes.bool,
+      unloadBeforeLoad: PropTypes.bool
     };
   }
 

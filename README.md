@@ -9,8 +9,8 @@
 [![bitHound Dev Dependencies](https://www.bithound.io/github/my8bit/react-billboard.js/badges/devDependencies.svg)](https://www.bithound.io/github/my8bit/react-billboard.js/master/dependencies/npm)
 [![bitHound Code](https://www.bithound.io/github/my8bit/react-billboard.js/badges/code.svg)](https://www.bithound.io/github/my8bit/react-billboard.js)
 
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
-[![Issue Count](https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
+[![Code Climate](https://codeclimate.com/github/my8bit/react-billboard.js/badges/gpa.svg)](https://codeclimate.com/github/my8bit/react-billboard.js)
+[![Issue Count](https://codeclimate.com/github/my8bit/react-billboard.js/badges/issue_count.svg)](https://codeclimate.com/github/my8bit/react-billboard.js)
 
 ## This is a fork of [react-c3js](https://github.com/bcbcarl/react-c3js) adopted for [billboard.js](https://naver.github.io/billboard.js/)
 
