@@ -44,6 +44,8 @@ $ npm install --save react-billboard.js
 
 ## Contributing
 
+Please feel free to add pull requests.
+
 ### NPM
 
 1. Modify `src/index.js`.
@@ -54,37 +56,6 @@ $ npm install --save react-billboard.js
 ## Properties
 
 Check out [billboard.js Reference](https://naver.github.io/billboard.js/release/latest/doc/) for more details.
-
-* data
-* title
-* size
-* padding
-* color
-* interaction
-* transition
-* oninit
-* onrendered
-* onmouseover
-* onmouseout
-* onresize
-* onresized
-* axis
-* grid
-* regions
-* legend
-* tooltip
-* subchart
-* zoom
-* point
-* line
-* area
-* bar
-* pie
-* donut
-* gauge
-* className
-* style
-* unloadBeforeLoad
 
 ## License
 

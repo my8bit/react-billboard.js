@@ -1,6 +1,6 @@
 {
   "name": "react-billboard.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component for billboard.js",
   "main": "react-billboard.js",
   "files": [
@@ -25,33 +25,30 @@
     "graph"
   ],
   "author": "my8bit <mail@my8bit.name> (http://my8bit.name)",
-  "contributors": [{
-    "name": "Carl X. Su",
-    "email": "bcbcarl@gmail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Carl X. Su",
+      "email": "bcbcarl@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/my8bit/react-billboard.js/issues"
   },
   "homepage": "https://github.com/my8bit/react-billboard.js#readme",
-  "peerDependencies": {
-    "prop-types": "^15.5.0",
-    "react": "^15.5.0",
-    "react-dom": "^15.5.0"
-  },
   "dependencies": {
-    "billboard.js": "^1.0.1"
+    "billboard.js": "1.0.1",
+    "@types/react": "^15.0.21",
+    "@types/react-dom": "^0.14.23"
+    "prop-types": "^15.5.4",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3"
   },
   "devDependencies": {
-    "@types/react": "^15.0.21",
-    "@types/react-dom": "^0.14.23",
     "babel-cli": "^6.24.1",
     "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-minify": "^0.2.0",
     "babel-preset-react": "^6.24.1",
-    "prop-types": "^15.5.4",
-    "react": "^15.5.3",
-    "react-dom": "^15.5.3"
   }
 }
