@@ -25,12 +25,10 @@
     "graph"
   ],
   "author": "my8bit <mail@my8bit.name> (http://my8bit.name)",
-  "contributors": [
-    {
-      "name": "Carl X. Su",
-      "email": "bcbcarl@gmail.com"
-    }
-  ],
+  "contributors": [{
+    "name": "Carl X. Su",
+    "email": "bcbcarl@gmail.com"
+  }],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/my8bit/react-billboard.js/issues"
@@ -39,7 +37,7 @@
   "dependencies": {
     "billboard.js": "1.0.1",
     "@types/react": "^15.0.21",
-    "@types/react-dom": "^0.14.23"
+    "@types/react-dom": "^0.14.23",
     "prop-types": "^15.5.4",
     "react": "^15.5.3",
     "react-dom": "^15.5.3"
@@ -49,6 +47,6 @@
     "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-minify": "^0.2.0",
-    "babel-preset-react": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
   }
 }
